@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="300a4183-1e2f-47e8-b5a6-36e0dbb67ed2" name="Changes" comment="Added BaseTest class with auxiliary methods">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="300a4183-1e2f-47e8-b5a6-36e0dbb67ed2" name="Changes" comment="Added BaseTest class with auxiliary methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,45 +32,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.AccountActivityTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AccountSummaryTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FeedbackTest.clickingOnFAQRedirectsUserToFAQPage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FeedbackTest.userCanAskForFeedback.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyCommentField.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyEmailField.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyNameField.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptySubjectField.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomepageTest.clickingOnArrowChangesImage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomepageTest.clickingOnLogoRedirectsUserToHomepage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomepageTest.clickingOnMenuBarRedirectsUserToAppropriatePage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomepageTest.userCanRequestForHelpCertainQuestion.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomepageTest.userCanRequestForHelpRandomQuestion.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomepageTest.userCanSearchTerms.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.OnlineStatementsTest.userCanFindPdfStatements.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.PayBillsTest.userCanAddNewPayeeWithMandatoryFields.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.PayBillsTest.userCanCalculateCosts.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.PayBillsTest.userCanPaySavedPayee.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.PayBillsTest.userCannotPurchaseForeignCurrencyWithEmptyAmountField.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SignInTest.userCanLogout.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SignInTest.userCanRecoverPassword.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SignInTest.userCanSignInWithValidCredentials.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SignInTest.userCannotLogInWithEmptyUsernameAndPasswordFields.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SignInTest.userCannotLogInWithInvalidPassword.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SignInTest.userCannotLogInWithInvalidUsername.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SignInTest.userCannotLogInWithInvalidUsernameAndPassword.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TransferFundsTest.userCanTransferFunds.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TransferFundsTest.userCanTransferFundsWithEmptyDescriptionField.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TransferFundsTest.userCannotTransferFundsWithEmptyAmountField.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ivanauskokovic/IT BOOTCAMP/5. Selenium/!FINALNI PROJEKAT/ZeroWebAppSecurity&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AccountActivityTest.executor": "Run",
+    "TestNG.AccountSummaryTest.executor": "Run",
+    "TestNG.FeedbackTest.clickingOnFAQRedirectsUserToFAQPage.executor": "Run",
+    "TestNG.FeedbackTest.userCanAskForFeedback.executor": "Run",
+    "TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyCommentField.executor": "Run",
+    "TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyEmailField.executor": "Run",
+    "TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyNameField.executor": "Run",
+    "TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptySubjectField.executor": "Run",
+    "TestNG.HomepageTest.clickingOnArrowChangesImage.executor": "Run",
+    "TestNG.HomepageTest.clickingOnLogoRedirectsUserToHomepage.executor": "Run",
+    "TestNG.HomepageTest.clickingOnMenuBarRedirectsUserToAppropriatePage.executor": "Run",
+    "TestNG.HomepageTest.userCanRequestForHelpCertainQuestion.executor": "Run",
+    "TestNG.HomepageTest.userCanRequestForHelpRandomQuestion.executor": "Run",
+    "TestNG.HomepageTest.userCanSearchTerms.executor": "Run",
+    "TestNG.OnlineStatementsTest.userCanFindPdfStatements.executor": "Run",
+    "TestNG.PayBillsTest.userCanAddNewPayeeWithMandatoryFields.executor": "Run",
+    "TestNG.PayBillsTest.userCanCalculateCosts.executor": "Run",
+    "TestNG.PayBillsTest.userCanPaySavedPayee.executor": "Run",
+    "TestNG.PayBillsTest.userCannotPurchaseForeignCurrencyWithEmptyAmountField.executor": "Run",
+    "TestNG.SignInTest.userCanLogout.executor": "Run",
+    "TestNG.SignInTest.userCanRecoverPassword.executor": "Run",
+    "TestNG.SignInTest.userCanSignInWithValidCredentials.executor": "Run",
+    "TestNG.SignInTest.userCannotLogInWithEmptyUsernameAndPasswordFields.executor": "Run",
+    "TestNG.SignInTest.userCannotLogInWithInvalidPassword.executor": "Run",
+    "TestNG.SignInTest.userCannotLogInWithInvalidUsername.executor": "Run",
+    "TestNG.SignInTest.userCannotLogInWithInvalidUsernameAndPassword.executor": "Run",
+    "TestNG.TransferFundsTest.userCanTransferFunds.executor": "Run",
+    "TestNG.TransferFundsTest.userCanTransferFundsWithEmptyDescriptionField.executor": "Run",
+    "TestNG.TransferFundsTest.userCannotTransferFundsWithEmptyAmountField.executor": "Run",
+    "git-widget-placeholder": "Rebasing main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ivanauskokovic/IT BOOTCAMP/5. Selenium/!FINALNI PROJEKAT/ZeroWebAppSecurity"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG.TransferFundsTest.userCannotTransferFundsWithEmptyAmountField">
     <configuration name="SignInTest.userCanLogout" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ZeroWebAppSecurity" />
