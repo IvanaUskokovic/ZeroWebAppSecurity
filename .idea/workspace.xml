@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="300a4183-1e2f-47e8-b5a6-36e0dbb67ed2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/MyTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/RetryAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Helpers/URLs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AccountActivityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AccountSummaryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/FaqPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/FeedbackPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/FeedbackSentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ForgotPasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ForgottenPasswordSendPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/HelpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/OnlineBankingPageMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/OnlineStatementsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/PayBillsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/SearchResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/TransferFundsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/AccountActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/AccountSummaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/FeedbackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/HomepageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/OnlineStatementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/PayBillsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SignInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/TransferFundsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bgRTPs2h6RU0RrkEyRhs723a7C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AccountActivityTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AccountSummaryTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FeedbackTest.clickingOnFAQRedirectsUserToFAQPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FeedbackTest.userCanAskForFeedback.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyCommentField.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyEmailField.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptyNameField.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FeedbackTest.userCannotAskForFeedbackWithEmptySubjectField.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomepageTest.clickingOnArrowChangesImage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomepageTest.clickingOnLogoRedirectsUserToHomepage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomepageTest.clickingOnMenuBarRedirectsUserToAppropriatePage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomepageTest.userCanRequestForHelpCertainQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomepageTest.userCanRequestForHelpRandomQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomepageTest.userCanSearchTerms.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OnlineStatementsTest.userCanFindPdfStatements.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PayBillsTest.userCanAddNewPayeeWithMandatoryFields.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PayBillsTest.userCanCalculateCosts.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PayBillsTest.userCanPaySavedPayee.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PayBillsTest.userCannotPurchaseForeignCurrencyWithEmptyAmountField.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.userCanLogout.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.userCanRecoverPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.userCanSignInWithValidCredentials.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.userCannotLogInWithEmptyUsernameAndPasswordFields.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.userCannotLogInWithInvalidPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.userCannotLogInWithInvalidUsername.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignInTest.userCannotLogInWithInvalidUsernameAndPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TransferFundsTest.userCanTransferFunds.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TransferFundsTest.userCanTransferFundsWithEmptyDescriptionField.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TransferFundsTest.userCannotTransferFundsWithEmptyAmountField.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ivanauskokovic/IT BOOTCAMP/5. Selenium/!FINALNI PROJEKAT/ZeroWebAppSecurity&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.TransferFundsTest.userCannotTransferFundsWithEmptyAmountField">
+    <configuration name="SignInTest.userCanLogout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZeroWebAppSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SignInTest" />
+      <option name="METHOD_NAME" value="userCanLogout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInTest.userCanRecoverPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZeroWebAppSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SignInTest" />
+      <option name="METHOD_NAME" value="userCanRecoverPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferFundsTest.userCanTransferFunds" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZeroWebAppSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TransferFundsTest" />
+      <option name="METHOD_NAME" value="userCanTransferFunds" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferFundsTest.userCanTransferFundsWithEmptyDescriptionField" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZeroWebAppSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TransferFundsTest" />
+      <option name="METHOD_NAME" value="userCanTransferFundsWithEmptyDescriptionField" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferFundsTest.userCannotTransferFundsWithEmptyAmountField" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZeroWebAppSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.TransferFundsTest" />
+      <option name="METHOD_NAME" value="userCannotTransferFundsWithEmptyAmountField" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TransferFundsTest.userCannotTransferFundsWithEmptyAmountField" />
+        <item itemvalue="TestNG.TransferFundsTest.userCanTransferFundsWithEmptyDescriptionField" />
+        <item itemvalue="TestNG.TransferFundsTest.userCanTransferFunds" />
+        <item itemvalue="TestNG.SignInTest.userCanRecoverPassword" />
+        <item itemvalue="TestNG.SignInTest.userCanLogout" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="300a4183-1e2f-47e8-b5a6-36e0dbb67ed2" name="Changes" comment="" />
+      <created>1706634774581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706634774581</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

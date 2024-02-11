@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Base.MyTransformer"/>
+    </listeners>
+    <test name="Sequence Tests">
+        <classes>
+            <class name="Tests.PayBillsTest"/>
+            <class name="Tests.AccountActivityTest"/>
+            <class name="Tests.AccountSummaryTest"/>
+            <class name="Tests.FeedbackTest"/>
+            <class name="Tests.HomepageTest"/>
+            <class name="Tests.OnlineStatementsTest"/>
+            <class name="Tests.SignInTest"/>
+            <class name="Tests.TransferFundsTest"/>
+
+        </classes>
+    </test>
+</suite>
